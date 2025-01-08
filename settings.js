@@ -35,7 +35,7 @@ global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
-//setbot
+global.song=true//setbot
 global.botName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒" 
 global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
 global.fake = botName
@@ -77,7 +77,7 @@ global.FilestackApi = 'AJgyzwz0FQk67sTuplYoiz'
 global.gcounti = {
 'prem' : 1000,
 'user' : 5
-} 
+global.autorecording=true } 
  
 
 
